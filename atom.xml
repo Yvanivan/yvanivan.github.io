@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-10T10:30:02.569Z</updated>
+  <updated>2019-10-11T08:41:26.484Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>这不应该是个技术博客吗？</title>
+    <link href="http://yoursite.com/2019/10/11/%E8%BF%99%E4%B8%8D%E5%BA%94%E8%AF%A5%E6%98%AF%E4%B8%AA%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2%E5%90%97%EF%BC%9F/"/>
+    <id>http://yoursite.com/2019/10/11/这不应该是个技术博客吗？/</id>
+    <published>2019-10-11T08:35:11.000Z</published>
+    <updated>2019-10-11T08:41:26.484Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="我又开始扯淡了"><a href="#我又开始扯淡了" class="headerlink" title="我又开始扯淡了"></a>我又开始扯淡了</h3><p>头不疼的下午，但是觉得无聊透顶，跑完两组试验，今天的活也就干完了吧。<br>出去逛了一圈，进去出来都碰到CEO大大。<br>我应该好好做个程序员，这应当是一个技术博客。而不是一篇篇的流水账。<br>说起流水账，我是记不好流水账的。  </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;我又开始扯淡了&quot;&gt;&lt;a href=&quot;#我又开始扯淡了&quot; class=&quot;headerlink&quot; title=&quot;我又开始扯淡了&quot;&gt;&lt;/a&gt;我又开始扯淡了&lt;/h3&gt;&lt;p&gt;头不疼的下午，但是觉得无聊透顶，跑完两组试验，今天的活也就干完了吧。&lt;br&gt;出去逛了一圈，进去出来都
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>稀碎的今天</title>
